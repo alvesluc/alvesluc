@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is **Lucas Alves**.
+
+> But you can also call me **Luk**.
+
+I'm a software engineer, currently living in Brazil, with nearly half a decade of experience.
+
 <!--
 **alvesluc/alvesluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
